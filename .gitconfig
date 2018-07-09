@@ -1,0 +1,7 @@
+[user]
+	email = icebergbsd@gmail.com
+	name = ibsd
+[color]
+	ui = auto
+[ssh]
+	variant = ssh
